@@ -8,7 +8,7 @@
     <style>
         /* Style Umum */
         body {
-            background-color: #4CAF50;
+            background-color: #b4765e;
             font-family: Arial, sans-serif;
         }
 
@@ -170,7 +170,7 @@
     <footer class="footer mt-5">
         <div>📞 0813-5091-3838</div>
         <div>
-            Follow Us: 
+            Follow Us:
             <a href="https://www.facebook.com" target="_blank">Facebook</a> |
             <a href="https://www.instagram.com" target="_blank">Instagram</a> |
             <a href="https://wa.me/081350913838" target="_blank">WhatsApp</a>
